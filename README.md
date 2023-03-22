@@ -21,4 +21,5 @@ we can regenerate the quadratic equation and thus determine ```f(0)```
 
 <p>Here's the desired output of the algorithm</p>
 
-![Uploading Screenshot from 2023-03-23 04-20-57.png…]()
+![Screenshot from 2023-03-23 04-20-57](https://user-images.githubusercontent.com/80243668/227057513-67fa0581-e089-4463-965b-0918ce060816.png)
+
